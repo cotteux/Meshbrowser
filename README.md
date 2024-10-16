@@ -10,4 +10,4 @@ setting.yaml to give acces to specifics node.
 Copy cert.pem and key.pem with the server
 
 ## Client
-Modify the line 384 in meshbrowser :   interface.sendText(message,wantAck=True,destinationId=1976459704) change the destination id for your server id.
+Modify the line 384 in meshbrowser :   interface.sendText(message,wantAck=True,destinationId=1976459704) change the destination id for your server meshtastic id.
